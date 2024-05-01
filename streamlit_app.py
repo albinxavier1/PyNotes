@@ -1,5 +1,3 @@
-# Import necessary modules
-import google.generativeai as genai
 import streamlit as st
 from groq import Groq
 
