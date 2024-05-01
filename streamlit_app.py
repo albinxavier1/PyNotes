@@ -6,7 +6,7 @@ client = Groq(
     api_key="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",
 )
 
-st.title("Python Trainer")
+st.title("PyNotes")
 # Declaring the prompt 
 prompt= st.text_input("Ask me anything:")
 # Create a submit button
