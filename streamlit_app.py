@@ -8,7 +8,7 @@ client = Groq(
 
 st.title("PyNotes")
 # Declaring the prompt 
-prompt= st.text_input("Ask me anything:")
+prompt= st.text_input("Get detailed docs on anything Python:")
 # Create a submit button
 submit_button = st.button("Submit")
 # Contextualizing the prompt
