@@ -3,7 +3,7 @@ from groq import Groq
 
 # Implement API Key 
 client = Groq(
-    api_key="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",
+    api_key="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",
 )
 
 st.title("PyNotes")
